@@ -1,2 +1,3 @@
 # hello-world
-just a new respository
+this is the second hahahha
+i have no idea what have i done
